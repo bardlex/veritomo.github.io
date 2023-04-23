@@ -11,7 +11,7 @@ body {
   font-size: 14px;
   line-height: 1.2;
   white-space: pre;
-  text-shadow: 0 0 2px var(--main-color-shadow), 0 0 4px var(--main-color-shadow), 0 0 6px var(--main-color-shadow);
+  text-shadow: 0 0 3px var(--main-color-shadow), 0 0 6px var(--main-color-shadow), 0 0 9px var(--main-color-shadow), 0 0 12px var(--main-color-shadow);
   margin: 0;
   display: flex;
   justify-content: center;
